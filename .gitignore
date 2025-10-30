@@ -7,3 +7,8 @@ node_modules/
 #vs code
 .vscode/
 
+#logs
+.*logs
+
+#system files
+.DS_Store
